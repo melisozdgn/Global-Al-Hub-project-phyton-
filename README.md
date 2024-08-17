@@ -1,4 +1,4 @@
-**  Global-Al-Hub-project-phyton-
+**Global-Al-Hub-project-phyton-
 
 ## Welcome Elemental Clash Game!
 ## Get ready for one of the most popular games in the world: Rock, Paper, Scissors, Water, Fire!
