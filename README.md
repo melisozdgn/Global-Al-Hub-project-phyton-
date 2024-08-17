@@ -1,5 +1,5 @@
 
-\*Global AI Hub Project\*
+**Global AI Hub Project**
 ## Welcome Elemental Clash Game!
 ## Get ready for one of the most popular games in the world: Rock, Paper, Scissors, Water, Fire!
 ## The winner is determined by the first two rounds won. 
